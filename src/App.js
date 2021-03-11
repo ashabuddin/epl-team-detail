@@ -5,8 +5,7 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link,
-  useParams
+  
 } from "react-router-dom";
 import Home from './components/Home/Home';
 import ClubDetail from './components/ClubDetail/ClubDetail';
