@@ -1,0 +1,27 @@
+
+.ClubDetailStyle{
+    border:1px solid blue;
+    padding : 10px;
+    background-color:rgba(241, 38, 2, 0.74);
+    display: flex ;
+    border-radius: 10px ;
+    width:90%;
+    margin-left: 65px;
+}
+.description{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.imgStyle{
+    margin-left: 40%;
+    display: flex;
+    justify-content: right;
+    border-radius: 20px;
+}
+.textStyle{
+    font-size: 20px;
+    color: honeydew;
+    cursor: pointer;
+}
